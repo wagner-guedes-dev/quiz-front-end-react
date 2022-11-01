@@ -45,9 +45,9 @@ const data = [
     answer: "fixed",
   },
   {
-    question: "No contexto de tabela, o código CSS3, que define a largura em 100%, é: ",
-    options: ["table { width 100%}", "table { width: 100%}", "table.full { wt: 100%}", "style = { width= 100%}"],
-    answer: "style = { width= 100%}",
+    question: "É possível customizar várias características de um texto, utilizando-se das propriedades do CSS. Assim sendo, a propriedade CSS que pode ser utilizada para tornar um texto negrito é:",
+    options: ["text-decoration: bold", "boldness: true", "font-style: bold", "font-weight: bold"],
+    answer: "font-weight: bold}",
   },{
     question: `No contexto do CSS numa página Web, assinale o script que estabelece que todos os elementos serão exibidos de acordo com a definição dos estilos. `,
     options: ["p { font-size: 20px; color: blue}", ".p { font-size: 20px; color: blue}", '#p { font-size: 20px; color: blue}', "<p> { font-size: 20px; color: blue}"],
